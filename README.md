@@ -45,9 +45,13 @@ PolicyAgent\scripts\activate
 
 Step 3 - Install necessary libraries 
 pip install --upgrade pip
+
 pip install openai faiss-cpu streamlit PyPDF2
+
 pip install pydantic_core
+
 pip install cosine_similarity
+
 pip install scikit-learn
 
 Step 4 = create app.py or map this folder
